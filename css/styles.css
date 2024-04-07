@@ -276,6 +276,10 @@ transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   background-color: #404bbf;
 }
 
+.network-soc-item:focus{
+  background-color: #404bbf;
+}
+
 .team-list {
   display: flex;
   gap: 24px;
@@ -333,8 +337,6 @@ transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   margin-bottom: 0;
   row-gap: 48px;
 }
-
-
 
 .portfolio-wrap {
   padding: 32px 16px;
