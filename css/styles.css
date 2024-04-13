@@ -40,6 +40,10 @@ img {
   border-bottom: 1px solid #e7e9fc;
 }
 
+button {
+  min-width: 169px;
+}
+
 
 
 .visually-hidden {
